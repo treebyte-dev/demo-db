@@ -1,0 +1,87 @@
+{
+     "list_restaurants":
+      [
+        {
+          "id":1,
+          "name": "Da Alfredo",
+          "address":{
+            "street:":"Via Rossi",
+            "number":57,
+            "zip": "36100",
+            "city": "Vicenza",
+            "country": "Italy"
+          },
+          "photo": "da_alfredo.jpg",
+          "main_category": "Pizza",
+          "reviews":{
+            "rating":"Ottimo",
+            "number_of_reviews":250
+          },
+          "open_closed_now":1
+        },
+        {
+          "id":2,
+          "name": "Best Burghers",
+          "address":{
+            "street:":"Via Giacomo Puccini",
+            "number":27,
+            "zip": "37039",
+            "city": "Verona",
+            "country": "Italy"
+          },
+          "photo": "best_burghers.jpg",
+          "main_category": "Burghers",
+          "reviews":{
+            "rating":"Ottimo",
+            "number_of_reviews":150
+          },
+          "open_closed_now":0
+        }
+
+      ]
+     "popular_category":
+    [
+      {
+        "id":1,
+        "name": "Pizza",
+        "photo": "pizza.jpg",
+        "average_price": "10€",
+        "number_of_reviews":10
+      },
+      {
+        "id":2,
+        "name": "Sushi",
+        "photo": "sushi.jpg",
+        "average_price": "8€",
+        "number_of_reviews":3
+      },
+      {
+        "id":3,
+        "name": "Burghers",
+        "photo": "burghers.jpg",
+        "average_price": "8€",
+        "number_of_reviews":3
+      },
+      {
+        "id":4,
+        "name": "Vegetariano",
+        "photo": "vegetariano.jpg",
+        "average_price": "7€",
+        "number_of_reviews":6
+      },
+      {
+        "id":5,
+        "name": "Pasticceria",
+        "photo": "pasticceria.jpg",
+        "average_price": "6€",
+        "number_of_reviews":3
+      },
+      {
+        "id":6,
+        "name": "Cinese",
+        "photo": "cinese.jpg",
+        "average_price": "7€",
+        "number_of_reviews":5
+      }
+    ]
+}
