@@ -115,10 +115,11 @@
       "open_closed_now": 0
     }
   ],
-  "result": [
-    {
-      "return-code": 200,
-      "message": "OK"
-    }
-  ]
+  "result":
+   [
+      {
+        "status-code": 200,
+        "message": "OK"
+      }
+    ]
 }
