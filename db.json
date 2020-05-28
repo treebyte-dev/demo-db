@@ -4,7 +4,7 @@
       "id": 1,
       "name": "Da Alfredo",
       "address": {
-        "street:": "Via Rossi, 57"
+        "street:": "Via Rossi, 57",
         "zip": "36100",
         "city": "Vicenza",
         "country": "Italy"
@@ -21,8 +21,7 @@
       "id": 2,
       "name": "Best Burghers",
       "address": {
-        "street:": "Via Giacomo Puccini",
-        "number": 27,
+        "street:": "Via Giacomo Puccini, 27",
         "zip": "37039",
         "city": "Verona",
         "country": "Italy"
@@ -36,7 +35,7 @@
       "open_closed_now": 0
     }
   ],
-  "popular_category": [
+  "list_categories_restaurants": [
     {
       "id": 1,
       "name": "Pizza",
@@ -85,8 +84,7 @@
       "id": 1,
       "name": "Da Alfredo",
       "address": {
-        "street:": "Via Rossi",
-        "number": 57,
+        "street:": "Via Rossi, 57",
         "zip": "36100",
         "city": "Vicenza",
         "country": "Italy"
@@ -103,8 +101,7 @@
       "id": 2,
       "name": "Best Burghers",
       "address": {
-        "street:": "Via Giacomo Puccini",
-        "number": 27,
+        "street:": "Via Giacomo Puccini, 27",
         "zip": "37039",
         "city": "Verona",
         "country": "Italy"
