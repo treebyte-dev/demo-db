@@ -157,12 +157,5 @@
       "average_price": 10,
       "open_closed_now": 1
     }
-  ],
-  "result":
-   [
-      {
-        "status-code": 200,
-        "message": "OK"
-      }
-    ]
+  ]
 }
