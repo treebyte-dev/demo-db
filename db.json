@@ -35,7 +35,7 @@
       "open_closed_now": 0
     }
   ],
-  "list_categories_restaurants": [
+  "list_categories": [
     {
       "id": 1,
       "name": "Pizza",
@@ -79,7 +79,7 @@
       "number_of_reviews": 5
     }
   ],
-  "list_category_restaurants": [
+  "list_categories_restaurants": [
     {
       "id": 1,
       "name": "Da Alfredo",
