@@ -115,6 +115,26 @@
       "open_closed_now": 0
     }
   ],
+   "list_address_restaurants": 
+  [
+    {
+      "id": 1,
+      "name": "Da Alfredo",
+      "address": {
+        "street:": "Via Rossi, 57",
+        "zip": "36100",
+        "city": "Vicenza",
+        "country": "Italy"
+      },
+      "photo": "da_alfredo.jpg",
+      "main_category": "Pizza",
+      "reviews": {
+        "rating": "Ottimo",
+        "number_of_reviews": 250
+      },
+      "open_closed_now": 1
+    }
+  ],
   "result":
    [
       {
